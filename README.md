@@ -1,2 +1,2 @@
-# Snakegamekorver1
+# Snakegame
 과제
